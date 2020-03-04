@@ -1,0 +1,11 @@
+C:\Users\Dima\source\repos\Lab2.3KS\Lab2.3KS\bin\Debug\netcoreapp3.1\Lab2.3KS.exe
+C:\Users\Dima\source\repos\Lab2.3KS\Lab2.3KS\bin\Debug\netcoreapp3.1\Lab2.3KS.deps.json
+C:\Users\Dima\source\repos\Lab2.3KS\Lab2.3KS\bin\Debug\netcoreapp3.1\Lab2.3KS.runtimeconfig.json
+C:\Users\Dima\source\repos\Lab2.3KS\Lab2.3KS\bin\Debug\netcoreapp3.1\Lab2.3KS.runtimeconfig.dev.json
+C:\Users\Dima\source\repos\Lab2.3KS\Lab2.3KS\bin\Debug\netcoreapp3.1\Lab2.3KS.dll
+C:\Users\Dima\source\repos\Lab2.3KS\Lab2.3KS\bin\Debug\netcoreapp3.1\Lab2.3KS.pdb
+C:\Users\Dima\source\repos\Lab2.3KS\Lab2.3KS\obj\Debug\netcoreapp3.1\Lab2.3KS.csprojAssemblyReference.cache
+C:\Users\Dima\source\repos\Lab2.3KS\Lab2.3KS\obj\Debug\netcoreapp3.1\Lab2.3KS.AssemblyInfoInputs.cache
+C:\Users\Dima\source\repos\Lab2.3KS\Lab2.3KS\obj\Debug\netcoreapp3.1\Lab2.3KS.AssemblyInfo.cs
+C:\Users\Dima\source\repos\Lab2.3KS\Lab2.3KS\obj\Debug\netcoreapp3.1\Lab2.3KS.dll
+C:\Users\Dima\source\repos\Lab2.3KS\Lab2.3KS\obj\Debug\netcoreapp3.1\Lab2.3KS.pdb
